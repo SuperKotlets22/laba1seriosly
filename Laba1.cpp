@@ -4,7 +4,7 @@
 #include <string>
 
 using namespace std;
-//hi mir
+//hi mir.mir
 int main() {
     // Устанавливаем русскую локаль
     locale::global(locale("ru_RU.utf8"));
